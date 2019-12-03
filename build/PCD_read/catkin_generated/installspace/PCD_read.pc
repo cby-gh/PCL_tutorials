@@ -1,0 +1,8 @@
+prefix=/home/cby/PCL_ws/install
+
+Name: PCD_read
+Description: Description of PCD_read
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cby/PCL_ws/install/lib 
+Requires: 

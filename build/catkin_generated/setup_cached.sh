@@ -7,7 +7,6 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/cby/PCL_ws/devel:$CMAKE_PREFIX_PATH"
+export PATH="/opt/ros/melodic/bin:/home/cby/anaconda3/condabin:/home/cby/.local/share/umake/bin:/home/cby/.local/bin:/home/cby/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/MATLAB/R2017b/bin:/usr/local/cuda/bin"
+export PKG_CONFIG_PATH="/home/cby/PCL_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/cby/PCL_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/cby/PCL_ws/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/cby/PCL_ws/src:$ROS_PACKAGE_PATH"
